@@ -47,7 +47,7 @@ In the main file of the root directory, there is another map variable called **p
 All of the changes to variables values must be in **terraform.tfvars** file.
 An example **terraform.tfvars** file was provided in the root directory.
 
-## Running to code
+## Running the code
 - Go to root directory
 - Get module
   `terraform init`
